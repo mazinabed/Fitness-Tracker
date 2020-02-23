@@ -1,0 +1,21 @@
+{
+  "name": "mongoose_skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "author": "Mazin Abed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mango": "0.0.4",
+    "mangodb": "^1.0.0",
+    "mongoose": "^5.9.2",
+    "morgan": "^1.9.1"
+  }
+}
