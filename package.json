@@ -12,7 +12,7 @@
   "author": "Mazin Abed",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mango": "0.0.4",
     "mangodb": "^1.0.0",
     "mongoose": "^5.9.2",
